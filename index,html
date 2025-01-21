@@ -1,0 +1,38 @@
+<html>
+    <head>Desafio 1</head>
+    <body> 
+        <H1 id="Inicio"><strong>Modulo Basico de HTML</strong></H1>
+        <hr />
+        <h2>Indice</h2>
+        <ul>
+            <li><a href='#HTML'>O que é HTML?</a></li>
+        	<li><a href='#Tags'>Tags</a></li>
+            <li><a href='#Referencias'>Referencias</a></li>
+        </ul>
+        <hr>
+        <h3 id="HTML">O que é HTML?</h3>
+        <small><a href="#Inicio">Voltar</a></small>
+        	<p>
+        		HTML é o componente básico e padrão para criação de paginas da web, significa HiperText Markup Language, ele permite inserir o conteúdo e estabalecer um estrutura básica de um website.
+                os HiperText, Hipertexto em português, são conjuntos de elementos conectados. Podendo ser palavras, imagens, videos, textos e etc.
+        	</p>
+
+        <hr>
+        <h3 id="Tags">Tags</h3>
+        <small><a href="#HTML">Voltar</a></small>
+        	<p>
+        		Um elemento HTML são definos por uma tag de inicio e uma de fim, <mark>algumas tags precisam apenas do inicio e se fecham em si propia</mark>.
+                <nometag>Conteudo aqui</nometag>
+             	Um elemento HTML é tudo do inicio até o fim da tag
+        
+        	</p>
+            
+        <hr>
+        <h3 id="Referencias">Referencias</h3>
+        <small><a href="#Tags">Voltar</a></small>
+        	<p>
+                <a href="https://www.w3schools.com/html/default.asp" target="_blank">w3schools</a>
+        
+        	</p>
+    </body>
+</html>
